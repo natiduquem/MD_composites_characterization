@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/header_notebook.PNG" alt="Header" />
+  <img src="/header_notebook.PNG" alt="Header" />
 </p>
 
 This repository contains the dataset and notebook used for training and evaluating machine learning models for the characterization of magnetodielectric composites. The training data were obtained from the analysis of the SRR sensor’s frequency response. The full results are published in (reference here).
