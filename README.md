@@ -12,4 +12,4 @@ N. Duque-Madrid<sup>1</sup>,  F. Luna<sup>2</sup>, G. Álvarez-Botero<sup>1</sup
 
 ## If you use these resources, please cite:
 
-(Reference here)
+N. Duque-Madrid, F. Luna, G. Álvarez-Botero, I. Arregui, T. Lopetegi and M. A. G. Laso, "Hands-on Machine Learning for Magnetodielectric Composites Characterization: Best Practices and Lessons Learned," in IEEE Microwave Magazine, doi: 10.1109/MMM.2026.3739224.
