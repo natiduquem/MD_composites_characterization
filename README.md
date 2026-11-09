@@ -3,7 +3,7 @@
 </p>
 
 This repository contains the dataset and notebook used for training and evaluating machine learning models for the characterization of magnetodielectric composites. The training data were obtained from the analysis of the SRR sensor’s frequency response. The full results are published in:
-N. Duque-Madrid, F. Luna, G. Álvarez-Botero, I. Arregui, T. Lopetegi and M. A. G. Laso, "Hands-on Machine Learning for Magnetodielectric Composites Characterization: Best Practices and Lessons Learned," in IEEE Microwave Magazine, doi: 10.1109/MMM.2026.3739224.
+N. Duque-Madrid, F. Luna, G. Álvarez-Botero, I. Arregui, T. Lopetegi and M. A. G. Laso, "Hands-on Machine Learning for Magnetodielectric Composites Characterization: Best Practices and Lessons Learned," in IEEE Microwave Magazine, http://dx.doi.org/10.1109/MMM.2026.3739224.
 
 ### Autors: 
 N. Duque-Madrid<sup>1</sup>,  F. Luna<sup>2</sup>, G. Álvarez-Botero<sup>1</sup>, I. Arregui<sup>1</sup>, T. Lopetegi<sup>1</sup>, M. A. G. Laso<sup>1</sup>
